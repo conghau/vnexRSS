@@ -1,0 +1,31 @@
+﻿
+@model IEnumerable<VNExpressFeed.Models.VNExpressRssModel>
+@{
+    ViewBag.Title = "VNExpress RSS";
+}
+
+@if (Model.Count() > 0)
+{
+    foreach (var item in Model)
+    {
+        <article class="box post post-excerpt">
+            <header>
+                <h2><a href="@item.link">@item.title</a></h2>
+                <p>A free, fully responsive HTML5 site template by HTML5 UP</p>
+            </header>
+            <div class="info">
+                <span class="date"><span class="month">Jul<span>y</span></span> <span class="day">14</span><span class="year">, 2014</span></span>
+                <ul>
+                    <li><a href="#" class="icon fa-comment">16</a></li>
+                    <li><a href="#" class="icon fa-heart">32</a></li>
+                    <li><a href="#" class="icon fa-twitter">64</a></li>
+                    <li><a href="#" class="icon fa-facebook">128</a></li>
+                </ul>
+            </div>
+            <a href="#" class="image featured">@Html.Raw(item.image)</a>
+            <p>@Html.Raw(item.description)</p>
+        </article>
+    }
+}
+
+
