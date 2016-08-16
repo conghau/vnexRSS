@@ -33,7 +33,7 @@ namespace VNExpressFeed.Utils
             var endPoints = vnExpressRSS.end_point;
             foreach (var item in endPoints)
             {
-                result.Add(new EndPointRSSModel { label = item.label, rss = url + item.rss });
+                result.Add(new EndPointRSSModel { label = item.label, rss = item.rss, base_link = url });
             }
             return result;
         }
@@ -66,7 +66,7 @@ namespace VNExpressFeed.Utils
         public static List<VNExpressRssModel> parserXML(string linkRSS, bool parserToObject = true)
         {
             XmlDocument rssXmlDoc = new XmlDocument();
-            rssXmlDoc.Load("http://vnexpress.net/rss/tin-moi-nhat.rss");
+            rssXmlDoc.Load(linkRSS);
 
             // Parse the Items in the RSS file
             XmlNodeList rssNodes = rssXmlDoc.SelectNodes("rss/channel/item");
@@ -113,8 +113,13 @@ namespace VNExpressFeed.Utils
             document2.LoadHtml(html);
 
             description = document2.DocumentNode.InnerText;
-
-            image = document2.DocumentNode.SelectNodes("//img").First().OuterHtml;
+            image = "";
+            var tmp = document2.DocumentNode.SelectNodes("//img");
+            if (tmp != null)
+            {
+                image = tmp.First().OuterHtml;
+            }
+            
            
         }
     }

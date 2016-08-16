@@ -126,6 +126,7 @@
     <Content Include="Content\assets\js\ie\PIE.htc" />
     <Content Include="Content\assets\js\ie\respond.min.js" />
     <Content Include="Content\assets\js\jquery.min.js" />
+    <Content Include="Content\assets\js\jpage.min.js" />
     <Content Include="Content\assets\js\main.js" />
     <Content Include="Content\assets\js\skel.min.js" />
     <Content Include="Content\assets\js\util.js" />
@@ -162,11 +163,13 @@
     <Content Include="Content\assets\fonts\fontawesome-webfont.woff" />
     <Content Include="Content\assets\fonts\fontawesome-webfont.woff2" />
     <Content Include="Content\assets\fonts\FontAwesome.otf" />
+    <None Include="Properties\PublishProfiles\vnexpressRSSPublish.pubxml" />
     <None Include="Scripts\jquery-2.2.3.intellisense.js" />
     <Content Include="Scripts\jquery-2.2.3.js" />
     <Content Include="Scripts\jquery-2.2.3.min.js" />
     <Content Include="Web.config" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Shared\_Sidebar.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

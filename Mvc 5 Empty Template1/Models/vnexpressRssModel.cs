@@ -17,5 +17,7 @@ namespace VNExpressFeed.Models
     {
         public String label;
         public String rss;
+        public String base_link;
+        public String get_full_link() { return this.base_link + this.rss;}
     }
 }
