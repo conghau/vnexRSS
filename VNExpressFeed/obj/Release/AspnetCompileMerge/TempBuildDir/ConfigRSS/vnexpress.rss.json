@@ -1,0 +1,77 @@
+﻿{
+  "link": "http://vnexpress.net/rss/",
+  "end_point": [
+    {
+      "label": "Trang Chủ",
+      "rss": "tin-moi-nhat.rss"
+    },
+    {
+      "label": "Thời sự",
+      "rss": "thoi-su.rss"
+    },
+    {
+      "label": "Thế giới",
+      "rss": "the-gioi.rss"
+    },
+    {
+      "label": "Kinh doanh",
+      "rss": "kinh-doanh.rss"
+    },
+    {
+      "label": "Giải trí",
+      "rss": "giai-tri.rss"
+    },
+    {
+      "label": "Thể thao",
+      "rss": "the-thao.rss"
+    },
+    {
+      "label": "Pháp luật",
+      "rss": "phap-luat.rss"
+    },
+    {
+      "label": "Giáo dục",
+      "rss": "giao-duc.rss"
+    },
+    {
+      "label": "Sức khỏe",
+      "rss": "suc-khoe.rss"
+    },
+    {
+      "label": "Gia đình",
+      "rss": "gia-dinh.rss"
+    },
+    {
+      "label": "Gia đình",
+      "rss": "gia-dinh.rss"
+    },
+    {
+      "label": "Du lịch",
+      "rss": "du-lich.rss"
+    },
+    {
+      "label": "Khoa học",
+      "rss": "khoa-hoc.rss"
+    },
+    {
+      "label": "Số hóa",
+      "rss": "so-hoa.rss"
+    },
+    {
+      "label": "Xe",
+      "rss": "oto-xe-may.rss"
+    },
+     {
+      "label": "Cộng đồng",
+      "rss": "cong-dong.rss"
+    },
+    {
+      "label": "Tâm sự",
+      "rss": "tam-su.rss"
+    }
+    ,{
+      "label": "Cười",
+      "rss": "cuoi.rss"
+    }
+  ]
+}

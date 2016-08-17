@@ -1,0 +1,114 @@
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\csc.exe
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\csc.exe.config
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\csc.rsp
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\csi.exe
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\csi.rsp
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\System.AppContext.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\System.Collections.Immutable.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\System.IO.FileSystem.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\System.Reflection.Metadata.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\vbc.exe
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\vbc.exe.config
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\vbc.rsp
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\VBCSCompiler.exe
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\VBCSCompiler.exe.config
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\VNExpressFeed.dll.config
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\VNExpressFeed.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\VNExpressFeed.pdb
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\Antlr3.Runtime.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\HtmlAgilityPack.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\Microsoft.Web.Infrastructure.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\Newtonsoft.Json.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.Helpers.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.Mvc.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.Optimization.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.Razor.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.WebPages.Deployment.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.WebPages.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.WebPages.Razor.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\WebGrease.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\Antlr3.Runtime.pdb
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\HtmlAgilityPack.pdb
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\HtmlAgilityPack.xml
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\Newtonsoft.Json.xml
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.Helpers.xml
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.Mvc.xml
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.Optimization.xml
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.Razor.xml
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.WebPages.xml
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.WebPages.Deployment.xml
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.WebPages.Razor.xml
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\obj\Release\VNExpressFeed.csprojResolveAssemblyReference.cache
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\obj\Release\VNExpressFeed.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\Mvc 5 Empty Template1\obj\Release\VNExpressFeed.pdb
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\csc.exe
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\csc.exe.config
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\csc.rsp
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\csi.exe
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\csi.rsp
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\System.AppContext.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\System.Collections.Immutable.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\System.IO.FileSystem.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\System.Reflection.Metadata.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\vbc.exe
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\vbc.exe.config
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\vbc.rsp
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\VBCSCompiler.exe
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\roslyn\VBCSCompiler.exe.config
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\VNExpressFeed.dll.config
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\VNExpressFeed.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\VNExpressFeed.pdb
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\Antlr3.Runtime.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\HtmlAgilityPack.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\Microsoft.Web.Infrastructure.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\Newtonsoft.Json.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\System.Web.Helpers.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\System.Web.Mvc.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\System.Web.Optimization.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\System.Web.Razor.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\System.Web.WebPages.Deployment.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\System.Web.WebPages.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\System.Web.WebPages.Razor.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\WebGrease.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\Antlr3.Runtime.pdb
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\HtmlAgilityPack.pdb
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\HtmlAgilityPack.xml
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\Newtonsoft.Json.xml
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\System.Web.Helpers.xml
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\System.Web.Mvc.xml
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\System.Web.Optimization.xml
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\System.Web.Razor.xml
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\System.Web.WebPages.xml
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\System.Web.WebPages.Deployment.xml
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\bin\System.Web.WebPages.Razor.xml
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\obj\Release\VNExpressFeed.csprojResolveAssemblyReference.cache
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\obj\Release\VNExpressFeed.dll
+G:\DEV-SOURCE\C#\Mvc 5 Empty Template1\VNExpressFeed\obj\Release\VNExpressFeed.pdb

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VNExpressFeed", "Mvc 5 Empty Template1\VNExpressFeed.csproj", "{800E53F9-FE66-40A6-96EA-341A0BEFDAAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VNExpressFeed", "VNExpressFeed\VNExpressFeed.csproj", "{800E53F9-FE66-40A6-96EA-341A0BEFDAAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

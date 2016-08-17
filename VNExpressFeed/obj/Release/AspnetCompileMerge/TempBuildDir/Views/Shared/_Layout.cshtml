@@ -1,0 +1,61 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <title>@ViewBag.Title | @ViewBag.type</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--[if lte IE 8]><script src="~/Content/assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="~/Content/assets/css/main.css" />
+    <!--[if lte IE 8]><link rel="stylesheet" href="~/Content/assets/css/ie8.css" /><![endif]-->
+    <!-- Add fancyBox main JS and CSS files -->
+    
+    <link rel="stylesheet" type="text/css" href="~/Content/assets/fancybox/source/jquery.fancybox.css" media="screen" />
+    @Scripts.Render("~/Content/assets/js/jquery.min.js", "~/Content/assets/js/jpage.min.js")
+</head>
+<body>
+
+    <!-- Content -->
+    <div id="content">
+        <div class="inner">
+
+            <!-- Post -->
+            <div id="itemContainer">
+                @RenderBody()
+            </div>
+            <!-- Pagination -->
+            <div class="pagination">
+                <div class="pages"></div>
+            </div>
+<script>
+    $(function () {
+        $("div.pages").jPages({
+            containerID: "itemContainer",
+            perPage: '@ViewBag.itemPerPage',
+            next: 'Next Page',
+            hideFirst: true,
+            hidePrev: true,
+            hideLast: true,
+            minHeight : false,
+        });
+
+        $('.fancybox').fancybox({
+            padding: '5px',
+            width: '90%',
+            height: '85%',
+            autoResize: true
+        });
+    })
+   
+</script>
+        </div>
+    </div>
+
+    <!-- Sidebar -->
+    @{Html.RenderAction("Sidebar", "Home");}
+
+
+    <!-- Scripts -->
+    @Scripts.Render("~/Content/assets/js/skel.min.js", "~/Content/assets/js/util.js", "~/Content/assets/js/main.js", "~/Content/assets/fancybox/source/jquery.fancybox.js")
+    <!--[if lte IE 8]><script src="~/Content/assets/js/ie/respond.min.js"></script><![endif]-->
+</body>
+</html>
